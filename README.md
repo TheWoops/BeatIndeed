@@ -1,10 +1,12 @@
-# BeatIndeed
+<p align="center"> 
+  <img src="https://github.com/TheWoops/BeatIndeed/blob/master/logo.png">
+</p>
 
-                                                  Overview: 
+<p align="center"> Target is to develop a job board listing job postings of Small and medium-sized enterprises (SMEs)</p>
                                                   
-* Target is to develop a job board listing job postings of Small and medium-sized enterprises (SMEs).
 
-                                                  Minimum requirements:
+
+## Minimum requirements:
                                                   
 * focus on crawling data into database
   * [scrapy](https://scrapy.org/resources/)
@@ -17,7 +19,7 @@
   * [maybe use parts this notebook](https://github.com/discdiver/2019-in-demand-ds-tech-skills)
                                                   
                                                   
-                                                  ToDos: 
+## ToDos: 
                                                   
 * implement PoC spider that scrapes
   * company name
