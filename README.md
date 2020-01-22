@@ -2,9 +2,9 @@
   <img src="https://github.com/TheWoops/BeatIndeed/blob/master/logo.png">
 </p>
 
-<p align="center"> Target is to develop a job board listing job postings of Small and medium-sized enterprises (SMEs)</p>
+<p align="center"> Target is to develop a job board, listing job postings of small and medium-sized enterprises (SMEs)</p>
                                                   
-
+</br></br></br>
 
 ## Minimum requirements:
                                                   
