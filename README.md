@@ -2,7 +2,7 @@
 
                                                   Overview: 
                                                   
-* 
+* Target is to develop a job board listing job postings of Small and medium-sized enterprises (SMEs).
 
                                                   Minimum requirements:
                                                   
@@ -27,4 +27,6 @@
   
 * setup in docker container to make application portable and ready for easy deplovement
 * Django vs. Flask?
+  * [Django Girls](https://tutorial.djangogirls.org/de/)
+  * [Django Tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
                                                   
